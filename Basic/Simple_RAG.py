@@ -1,5 +1,5 @@
 # web based loader
-HF_TOKEN = ''
+HF_TOKEN = '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'
 import bs4
 import os
 access_token = os.environ.get(HF_TOKEN)
