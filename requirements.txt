@@ -21,3 +21,6 @@ langchainhub
 sentence_transformers
 PyPDF2
 langchain-objectbox
+faiss-cpu
+sentence-transformers
+langchain
